@@ -30,3 +30,7 @@ A modern, full-stack web app that helps users reduce food waste by tracking groc
 - Secure auth & storage
 - AI integration via REST (Gemini or other)
 
+## Its currently under development.
+---
+## Here's the url:
+https://food-waste-tracker.netlify.app/login
